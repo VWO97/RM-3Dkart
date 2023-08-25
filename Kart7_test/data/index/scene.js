@@ -51293,6 +51293,53 @@ app.loadJSONObject({
     },
     {
       "type": "layer",
+      "id": 47,
+      "properties": {
+        "name": "RIB 3D",
+        "clickable": true,
+        "visible": true,
+        "type": "point",
+        "objType": "3D Model"
+      },
+      "data": {
+        "models": [
+          {
+            "base64": "./data/index/models/RIB_3D_v12.dae",
+            "ext": "dae",
+            "resourcePath": "./data/index/models/"
+          }
+        ],
+        "blocks": [
+          {
+            "type": "block",
+            "layer": 47,
+            "block": 0,
+            "features": [
+              {
+                "geom": {
+                  "pts": [
+                    [
+                      -121.43400000000838,
+                      -104.3015000000596,
+                      0.0
+                    ]
+                  ],
+                  "rotateX": 0,
+                  "rotateY": 0,
+                  "rotateZ": 0,
+                  "scale": 1.0
+                },
+                "model": 0
+              }
+            ],
+            "featureCount": 1,
+            "startIndex": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "layer",
       "id": 49,
       "properties": {
         "name": "RIVA 3D Gltf",
