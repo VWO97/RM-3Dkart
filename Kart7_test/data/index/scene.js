@@ -51304,7 +51304,7 @@ app.loadJSONObject({
       "data": {
         "models": [
           {
-            "base64": "./data/index/models/RIB_3D_v12.dae",
+            "url": "./data/index/models/RIB_3D_v12.dae",
             "ext": "dae",
             "resourcePath": "./data/index/models/"
           }
