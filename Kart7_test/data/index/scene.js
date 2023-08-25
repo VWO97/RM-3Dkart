@@ -51304,7 +51304,7 @@ app.loadJSONObject({
       "data": {
         "models": [
           {
-            "url": "./data/index/models/RIVA_3D_v4_rev1.gltf",
+            "url": "./data/index/models/RIVA_3D_v4_rev2.gltf",
             "ext": "gltf",
             "resourcePath": "./data/index/models/"
           }
